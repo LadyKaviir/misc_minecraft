@@ -30,6 +30,7 @@ maxdeaths: 10
 # in the blocks section. If there is not, then LOG:3 would have no value.
 limits:
   NETHERRACK: 1000
+  ICE: 500
   #LOG:3: 10
   
 # This section lists the value of a block. Value must be an integer.
